@@ -6,6 +6,7 @@ namespace DailyCodingProblem
     {
         static void Main(string[] args)
         {
+            Helpers.Problem14B();
         }
     }
 }
